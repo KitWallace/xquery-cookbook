@@ -1,4 +1,2 @@
-xquery-cookbook
-===============
+This repository contains XQuery and sample files as used in the XQuery Cookbook
 
-A collection of XQuery examples as used in the Cookbook
